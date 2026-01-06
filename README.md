@@ -5,5 +5,3 @@ I built **[Bunge Bits](https://github.com/c12i/bunge-bits)**, which processes Ke
 I've given talks on **Programming WebAssembly in Rust** (Rustaceans Kenya, 2024) and **How to Speed Up Your Python with Rust** (PyCon Ke, 2022).
 
 Outside of work, I train and compete in Brazilian Jiu-Jitsu, explore self-hosted tools, and tinker with side projects that bridge code and creativity.
-
-You can find my profiles at **[c12i.xyz](https://c12i.xyz)**.
